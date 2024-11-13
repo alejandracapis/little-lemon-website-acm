@@ -1,0 +1,9 @@
+* {
+    font-family: 'markazi-text', sans-serif;
+    margin: 0;
+}
+
+#buttonHero:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
