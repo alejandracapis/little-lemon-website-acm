@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 
 import Homepage from './components/Homepage';
 import Header from './components/Header';
@@ -15,7 +15,6 @@ import './App.css';
 function App() {
   return (
     <div className='App'>
-    <BrowserRouter>
       <Header />
         <Routes>
         <Route exact path='/' element={<Homepage/>}/>
@@ -23,7 +22,6 @@ function App() {
         <Route path='/confirmation' element={<BookingConfirmation/>} />
         </Routes>
       <Footer />
-    </BrowserRouter>
     </div>
   );
 }
