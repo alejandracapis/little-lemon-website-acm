@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/little-lemon-website-acm/static/css/main.7b65f485.css",
-    "main.js": "/little-lemon-website-acm/static/js/main.f311e001.js",
+    "main.js": "/little-lemon-website-acm/static/js/main.3ceaa54c.js",
     "static/media/img2.jpg": "/little-lemon-website-acm/static/media/img2.a414e917328742f0ac59.jpg",
     "static/media/img1.jpg": "/little-lemon-website-acm/static/media/img1.1b0854149f17e98c2bd7.jpg",
     "static/media/restaurant.jpg": "/little-lemon-website-acm/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
@@ -28,10 +28,10 @@
     "static/media/markazi-text-vietnamese-400-normal.woff2": "/little-lemon-website-acm/static/media/markazi-text-vietnamese-400-normal.a8427e07cb01094b18c0.woff2",
     "index.html": "/little-lemon-website-acm/index.html",
     "main.7b65f485.css.map": "/little-lemon-website-acm/static/css/main.7b65f485.css.map",
-    "main.f311e001.js.map": "/little-lemon-website-acm/static/js/main.f311e001.js.map"
+    "main.3ceaa54c.js.map": "/little-lemon-website-acm/static/js/main.3ceaa54c.js.map"
   },
   "entrypoints": [
     "static/css/main.7b65f485.css",
-    "static/js/main.f311e001.js"
+    "static/js/main.3ceaa54c.js"
   ]
 }
